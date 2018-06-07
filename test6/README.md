@@ -15,7 +15,7 @@
 
 ## 2.系统总体结构
 
-![](images\系统总体结构.png)
+![](images/系统总体结构.png)
 
 ## 3.用例图设计   [源码](src/usercase.puml)
 
