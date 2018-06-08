@@ -33,21 +33,21 @@
 
 ## 6.用例及界面详细设计
 
-[**“登录”用例**](./用例/登录.md)，[界面](./ui/登录.html)
+[**“登录”用例**](./用例/登录.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/登录.html)
 
-[**“登出”用例**](./用例/登出.md)，[界面](./ui/首页.html)
+[**“登出”用例**](./用例/登出.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/首页.html)
 
-[**“学生列表”用例**](./用例/学生列表.md)，[界面](./ui/学生表.html)
+[**“学生列表”用例**](./用例/学生列表.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/学生表.html)
 
-[**“选择课程”用例**](./用例/选择课程.md)，[界面](./ui/选课.html)
+[**“选择课程”用例**](./用例/选择课程.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/选课.html)
 
-[**“查看成绩“用例**](./用例/查看成绩.md)，[界面](./ui/查看成绩.html)
+[**“查看成绩“用例**](./用例/查看成绩.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/查看成绩.html)
 
-[**“修改成绩“用例**](./用例/修改成绩.md)，[界面](./ui/修改成绩.html)
+[**“修改成绩“用例**](./用例/修改成绩.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/修改成绩.html)
 
-[**“查看用户信息“用例**](./用例/查看用户信息.md)，[界面](./ui/查看用户信息.html)
+[**“查看用户信息“用例**](./用例/查看用户信息.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/查看用户信息.html)
 
-[**“修改用户信息“用例**](./用例/修改用户信息.md)，[界面](./ui/修改用户信息.html)
+[**“修改用户信息“用例**](./用例/修改用户信息.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/修改用户信息.html)
 
-[**“修改密码“用例**](./用例/修改密码.md)，[界面](./ui/修改密码.html)
+[**“修改密码“用例**](./用例/修改密码.md)，[界面](https://sh5-ang-liu.github.io/is_analysis/test6/ui/修改密码.html)
 
